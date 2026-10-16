@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-426-add-share-as-link-feature-for-staking",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-426-add-share-as-link-feature-for-staking": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-426-add-share-as-link-feature-for-staking",
+    "origin"
+  ]
+}
